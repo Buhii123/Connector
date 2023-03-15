@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Application</Name>
+		<AddInId>C7225313-3A23-4D28-87B4-13481B5B19DF</AddInId>
+		<FullClassName>AutoConector.RoutingApp</FullClassName>
+		<Assembly>C:\ProgramData\Autodesk\Revit\Addins\2023\AutoConector.dll</Assembly>
+		<VendorId>Buhii</VendorId>
+		<VendorDescription>Buhii</VendorDescription>
+	</AddIn>
+</RevitAddIns>

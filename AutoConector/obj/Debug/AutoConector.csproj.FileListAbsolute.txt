@@ -1,0 +1,6 @@
+D:\Học Tập\Học WPF\AutoConector\AutoConector\obj\Debug\AutoConector.csproj.AssemblyReference.cache
+D:\Học Tập\Học WPF\AutoConector\AutoConector\obj\Debug\AutoConector.csproj.CoreCompileInputs.cache
+D:\Học Tập\Học WPF\AutoConector\AutoConector\bin\Debug\AutoConector.dll
+D:\Học Tập\Học WPF\AutoConector\AutoConector\bin\Debug\AutoConector.pdb
+D:\Học Tập\Học WPF\AutoConector\AutoConector\obj\Debug\AutoConector.dll
+D:\Học Tập\Học WPF\AutoConector\AutoConector\obj\Debug\AutoConector.pdb
